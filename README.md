@@ -37,7 +37,7 @@ Element position in result combination not is important for uniqualization its m
 
 ```php
 $array = ["1", "2", "3"];
-print_r(do_unique_combination(arrar:$array, separator:" "));
+print_r(do_unique_combination(arrar:$array));
 
 array(
     "1",
